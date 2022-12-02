@@ -29,6 +29,7 @@ We use slack actively for team communications, and Notion for longer term docs l
 
 I would love to sync some of the interesting conversations in Notion for future reference. Current tools, only synce the first message in the thread. Can there be a tool which syncs the complete thread and keeps it synced as new comments/replies come.
 
+I think slack link could work for this, but needs to click another link. Many times currently I add screenshots of conversations. I think there could be something better here
 
 ----
 
