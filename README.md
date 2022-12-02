@@ -23,13 +23,22 @@ I need minimal formating options. Also, should have good deliverability rate and
 
 ----
 
-### 2. Bi directional sync between slack threads and CRM tools (Hubspot) 
+### 2. Bi directional sync between slack threads and Notion 
 
-Many of our user conversations happen in slack community. I would love to sync some of the interesting conversations in our CRM for future reference. Current tools, onky synce the first message in the thread. Can there be a tool which syncs the complete thread and keeps it synced as new comments/replies come.
+We use slack actively for team communications, and Notion for longer term docs like PRD, strategic plans, etc.
+
+I would love to sync some of the interesting conversations in Notion for future reference. Current tools, only synce the first message in the thread. Can there be a tool which syncs the complete thread and keeps it synced as new comments/replies come.
+
+
+----
+
+### 3. Bi directional sync between slack threads and CRM tools (Hubspot) 
+
+Many of our user conversations happen in slack community. I would love to sync some of the interesting conversations in our CRM for future reference. Current tools, only synce the first message in the thread. Can there be a tool which syncs the complete thread and keeps it synced as new comments/replies come.
 
 ---
 
-### 3. Tools to run open source GPT3 like models ( like Stable Diffusion) in our own infra
+### 4. Tools to run open source GPT3 like models ( like Stable Diffusion) in our own infra
 
 I would like to try if we can provide chat like interface as a feature for some parts of the product. Transformer models like GPT3 seem quite good at it
 But using GPT3 model itself would be cost prohibitive from a business models perspective ( each search would cost dollars)
