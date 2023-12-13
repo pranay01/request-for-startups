@@ -46,3 +46,8 @@ But using GPT3 model itself would be cost prohibitive from a business models per
 
 I think, if we run the models in our own infra - cost much more manageable (atleast not linearly scale with API calls)
 
+--
+### 5. Tools to set up data pipeline easily (Added Dec 2023)
+
+I want to create a datastack with Segment -> DBT -> Fivetran/Airbyte -> BigQuery -> Metabase/Redash (Visualization tool) as any analytics tool gets restrictive after some time, and more feature rich analytics(like amplitide) tool cost a bomb. Any products which helps set up the data stack would be very helfpul ( though not sure how much this can be productised and if it's a services play)
+
