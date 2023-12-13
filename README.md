@@ -49,5 +49,7 @@ I think, if we run the models in our own infra - cost much more manageable (atle
 --
 ### 5. Tools to set up data pipeline easily (Added Dec 2023)
 
-I want to create a datastack with Segment -> DBT -> Fivetran/Airbyte -> BigQuery -> Metabase/Redash (Visualization tool) as any analytics tool gets restrictive after some time, and more feature rich analytics(like amplitide) tool cost a bomb. Any products which helps set up the data stack would be very helfpul ( though not sure how much this can be productised and if it's a services play)
+I want to create a datastack with Segment -> DBT -> Fivetran/Airbyte -> BigQuery -> Metabase/Redash (Visualization tool) as any analytics tool gets restrictive after some time, and more feature rich analytics(like amplitude) tool cost a bomb. Any products which helps set up the data stack would be very helfpul ( though not sure how much this can be productised and if it's a services play)
+
+I want to sync multiple data sources (e.g. CRM, product analytics, website analytics) to a single place and derive insights from there by writing more granular queries. A cherry on top would be to connect easily to a slack alert/email automation tool, which can take action directly based on these signals
 
